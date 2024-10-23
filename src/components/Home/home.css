@@ -1,0 +1,7 @@
+.background-container {
+    background-size: cover; /* Adjust size */
+    background-position: center; /* Center the image */
+    height:607px; /* Set height */
+    background-color: #152019; /* Text color for contrast */
+}
+

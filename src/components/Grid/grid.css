@@ -1,0 +1,55 @@
+.aboad{
+    margin-top: 7%;
+}
+
+.aboad img{
+    margin-left: -9%;
+    height: 97%;
+    width: auto;
+}
+.aboad h1{
+    color: #fff;
+    font-size: 50px;
+    font-family: "Signika Negative", sans-serif;
+    margin-top: 8%;
+}
+
+.lago{
+    margin-left:30%;
+    font-family: "Signika Negative", sans-serif;
+}
+.tap6 p{
+    color: #fff;
+    font-family: "Signika Negative", sans-serif;
+    margin-top: 4%;
+}
+.lago2{
+    background-color: #CDBD72 !important;
+}
+
+@media only screen and (max-width: 500px){
+    .aboad{
+        display: inline-block !important;
+        background-color: #152019;
+       margin-top: 20%;
+       margin-bottom: 30%;
+    }
+    .aboad img{
+     width: auto;
+     display: none;
+     height:50%;
+    }
+
+    .aboad h1{
+        font-size: 30px;
+        margin-left: -110%;
+    }
+    .tap6 p{
+        margin-left: -110%; 
+        margin-top: 15%;
+    }
+
+    .lago2{
+        margin-left: -200%;
+    }
+}

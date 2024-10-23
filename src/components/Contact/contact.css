@@ -1,0 +1,6 @@
+.above{
+    background-size: cover; /* Adjust size */
+    background-position: center; /* Center the image */
+    height:max-content; /* Set height */
+    background-color: #152019; 
+}

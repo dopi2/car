@@ -1,0 +1,22 @@
+.top-nav2  img{
+height: auto;
+width: 40%;
+/* background-color: #fff !important; */
+border-radius: 50% !important;
+}
+
+.top-nav{
+    margin-top: -5%;
+}
+
+.top-nav a{
+    color: #fff !important;
+}
+
+.tap4 a{
+    font-family: "Signika Negative", sans-serif !important;
+}
+
+.tap4 a:hover{
+    color: #CDBD72 !important;
+}
